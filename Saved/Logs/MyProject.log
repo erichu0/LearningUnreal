@@ -9765,3 +9765,36 @@ BP_MovablePet_C.ReceiveBeginPlay
 [2021.08.05-20.12.25:499][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.08.05-20.12.25:531][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
 [2021.08.05-20.12.25:574][474]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2021.08.05-20.14.43:432][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.08.05-20.14.43:601][994]LogSavePackage: Moving '../../../../../../Users/ericl/Documents/Unreal Projects/MyProject/Saved/L_FinalMap_Auto2E8837BF640CC891601C0FCB33C44108A.tmp' to '../../../../../../Users/ericl/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/FinalGame/L_FinalMap_Auto2.umap'
+[2021.08.05-20.14.43:604][994]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FinalGame/L_FinalMap' took 0.223
+[2021.08.05-20.14.43:604][994]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.223
+[2021.08.05-20.14.55:929][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.05-20.14.59:153][232]LogSlate: Window 'Save Content' being destroyed
+[2021.08.05-20.14.59:310][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.08.05-20.14.59:531][232]LogSavePackage: Moving '../../../../../../Users/ericl/Documents/Unreal Projects/MyProject/Saved/L_FinalMap067CCF724C123E7C4A5304AA64EA647B.tmp' to '../../../../../../Users/ericl/Documents/Unreal Projects/MyProject/Content/FinalGame/L_FinalMap.umap'
+[2021.08.05-20.14.59:567][232]LogFileHelpers: Saving map 'L_FinalMap' took 0.302
+[2021.08.05-20.14.59:567][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalGame/movingblock" FILE="../../../../../../Users/ericl/Documents/Unreal Projects/MyProject/Content/FinalGame/movingblock.uasset" SILENT=true
+[2021.08.05-20.14.59:583][232]LogSavePackage: Moving '../../../../../../Users/ericl/Documents/Unreal Projects/MyProject/Saved/movingblock2A8E0F6F4E915B7FB2290B8F68997355.tmp' to '../../../../../../Users/ericl/Documents/Unreal Projects/MyProject/Content/FinalGame/movingblock.uasset'
+[2021.08.05-20.14.59:671][232]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FinalGame/L_MainMenu.L_MainMenu
+[2021.08.05-20.14.59:671][232]Cmd: MAP LOAD FILE="../../../../../../Users/ericl/Documents/Unreal Projects/MyProject/Content/FinalGame/L_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.05-20.14.59:671][232]LightingResults: New page: Lighting Build
+[2021.08.05-20.14.59:671][232]LoadErrors: New page: Loading map: L_MainMenu.umap
+[2021.08.05-20.14.59:701][232]LogWorld: UWorld::CleanupWorld for L_FinalMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-20.14.59:702][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-20.14.59:702][232]MapCheck: New page: Map Check
+[2021.08.05-20.14.59:702][232]LightingResults: New page: Lighting Build
+[2021.08.05-20.14.59:744][232]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.05-20.14.59:766][232]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.08.05-20.14.59:768][232]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_MainMenu'.
+[2021.08.05-20.14.59:889][232]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.05-20.14.59:889][232]LogAIModule: Creating AISystem for world L_MainMenu
+[2021.08.05-20.14.59:930][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.08.05-20.14.59:937][232]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.05-20.14.59:938][232]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,244ms to complete.
+[2021.08.05-20.14.59:938][232]LogFileHelpers: Loading map 'L_MainMenu' took 0.267
+[2021.08.05-20.14.59:996][232]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.05-20.14.59:996][232]LogContentValidation: Display: Validating Blueprint /Game/FinalGame/movingblock.movingblock
+[2021.08.05-20.14.59:996][232]LogContentValidation: Display: Validating World /Game/FinalGame/L_FinalMap.L_FinalMap
+[2021.08.05-20.15.00:086][232]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X256)
+[2021.08.05-20.15.00:089][232]LogTexture: Error: Texture2D /Game/FinalGame/L_FinalMap.L_FinalMap:PersistentLevel.Landscape2.Texture2D_1 contains no miplevels! Please delete. (Format: 0)
